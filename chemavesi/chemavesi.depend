@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1541754733 source:c:\users\user\desktop\chemavesi\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+
+1541759469 source:c:\users\user\desktop\учёба\Численные\chemavesi\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+
+1545373082 source:z:\численные методы\chemavesi\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+
